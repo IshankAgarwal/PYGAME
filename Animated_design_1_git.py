@@ -62,7 +62,7 @@ while True:
             
 
 
-
+    """
     pixObj=pygame.PixelArray(DISPLAYSURF)
     pixObj[480][380]=black
     pixObj[480][381]=black
@@ -76,7 +76,7 @@ while True:
     pixObj[481][384]=black
 
     del pixObj
-
+    """
     
     if dire=='right':
         catx+=20
